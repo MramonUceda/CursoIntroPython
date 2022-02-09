@@ -1,0 +1,6 @@
+print("Calculadora")
+first_number = input("Primer número: ")
+second_number = input("Segundo número")
+print("resultado de sumar ambos número es: ")
+print(first_number+second_number)
+print("Concatenación ")
